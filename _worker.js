@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "authert.web.id"; // Ganti dengan domain utama kalian
-const serviceName = "wahyu"; // Ganti dengan nama workers kalian
+const serviceName = "why"; // Ganti dengan nama workers kalian
 const apiKey = "4852c278f81bc384d25e402a282b8ed49e70d"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "eripradana88@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "14a0e3c8f3362f24a9d5604790a8ec43"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
